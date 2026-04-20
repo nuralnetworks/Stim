@@ -4,4 +4,4 @@ This project is a desktop-based Digital Game Store (inspired by platforms like S
 
 ## Simplified UML diagram:
 
-<img src="https://github.com/user-attachments/assets/5cbe18d2-4e6f-4458-8f9a-eb2c0d513248" alt="uml" width="100%" />
+<img src="https://github.com/user-attachments/assets/5cbe18d2-4e6f-4458-8f9a-eb2c0d513248" alt="uml" width="75%" />
